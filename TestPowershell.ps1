@@ -1,0 +1,1 @@
+Write-Output "Hello World!" >> C:\hello.txt
